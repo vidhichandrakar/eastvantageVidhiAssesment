@@ -28,3 +28,6 @@
   ** this file is important for api in my case.
  
  Used localstorage.setItem for set value in local storage.
+ 
+ 
+ run npm start to run project
