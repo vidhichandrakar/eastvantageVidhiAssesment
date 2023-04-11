@@ -23,4 +23,6 @@
   
   - GET_URL - for fetching data
   
-  ** this file is important for api in my case
+  ** this file is important for api in my case.
+ 
+ Used localstorage.setItem for set value in local storage.
