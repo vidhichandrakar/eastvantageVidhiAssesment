@@ -3,7 +3,9 @@
 •	Step 1 - Create react app 
 -npx create-react-app <folder name>
 •	step 2 - open Terminal install node packages (Node modules)
+ ***** After clone you must install node modules***
 -npm i
+ 
 •	Below commands for other dependencies like MUI library for comprehensive suite of UI tools
 -npm i react-bootstrap
 -npm install @mui/material @emotion/react @emotion/styled
