@@ -18,3 +18,9 @@
 -npm i moment
 •	Below command is for toaster for messages
 -npm i notistack
+
+ In public folder one runtime-config is present for environmental variable-
+  
+  - GET_URL - for fetching data
+  
+  ** this file is important for api in my case
